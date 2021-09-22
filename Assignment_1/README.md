@@ -9,6 +9,7 @@ https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d
 [![](https://github.com/EffieSong/Computational-Portraiture/raw/master/Assignment_1/mask.png)](https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d)
 
 
+[![](https://github.com/EffieSong/openframeworks/raw/master/Project_1_Final/scene5.png)](https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d)
 
 
 [![](https://github.com/EffieSong/openframeworks/raw/master/Project_1_Final/scene5.png)](https://youtu.be/AEuLHtCW7TM)
