@@ -10,4 +10,4 @@ https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d
 
 
 
-[![](https://github.com/EffieSong/openframeworks/raw/master/Project_1_Final/scene5.png)](https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d)
+[![](https://github.com/EffieSong/openframeworks/raw/master/Project_1_Final/mask.png)](https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d)
