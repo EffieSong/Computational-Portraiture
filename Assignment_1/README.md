@@ -6,7 +6,7 @@ I create a spiral by drawing small ellipse with a growing distance from the cent
 
 https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d
 
-[![](https://github.com/EffieSong/Computational_Portraiture/raw/master/Assignment_1/scene5.png)](https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d)
+[![](https://github.com/EffieSong/Computational-Portraiture/blob/main/Assignment_1/mask.png](https://editor.p5js.org/yunfeisong/sketches/Z6RqGcR4d)
 
 
 
